@@ -1,2 +1,2 @@
 #!/bin/bash
-echo Aca | tr 'A' 'c' 'Z' 'e' 
+echo 'Aca' | tr 'A' 'c' 'Z' 'e' 
